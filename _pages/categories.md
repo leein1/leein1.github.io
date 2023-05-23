@@ -1,12 +1,12 @@
-| ---                     |
-| ----------------------- |
-| permalink: /categories/ |
-| title: "Category"       |
-| toc: true               |
-| toc_sticky: true        |
-| toc_label: "MYSELF"     |
-| ---                     |
-|                         |
-|                         |
-|                         |
-|                         |
+| ---                         |
+| --------------------------- |
+| title: ''Posts by Category" |
+| layout : categories         |
+| permalink: /categories/     |
+| author_profile: false       |
+|                             |
+| ---                         |
+|                             |
+|                             |
+|                             |
+|                             |

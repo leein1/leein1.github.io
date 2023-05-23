@@ -1,12 +1,12 @@
-| ---                 |
-| ------------------- |
-| permalink: /tags/   |
-| title: "Tags"       |
-| toc: true           |
-| toc_sticky: true    |
-| toc_label: "MYSELF" |
-| ---                 |
-|                     |
-|                     |
-|                     |
-|                     |
+| ---                     |
+| ----------------------- |
+|                         |
+| title: ''Posts by Tags" |
+| layout : tags           |
+| permalink: /tags/       |
+| author_profile: false   |
+| ---                     |
+|                         |
+|                         |
+|                         |
+|                         |
