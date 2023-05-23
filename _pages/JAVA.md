@@ -1,4 +1,4 @@
-```
+
 ---
 title: "JAVA"
 layout: categories
@@ -8,4 +8,3 @@ toc: true
 toc_sticky: true
 toc_label: true
 ---
-```
