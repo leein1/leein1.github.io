@@ -1,7 +1,7 @@
 ---
-title: "JAVA"
+title: "SWIFT"
 layout: categories
-permalink: /JAVA/
+permalink: /SWIFT/
 author_profile: true
 toc: true
 toc_sticky: true

@@ -4,8 +4,8 @@ main:
   #   url: 
    - title: "JAVA"
      url: /JAVA/
-   #- title: "Tags"
-    # url: /BLOG/
+   - title: "SWIFT"
+     url: /SWIFT/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
