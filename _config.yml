@@ -19,8 +19,8 @@ locale                   : "ko_KR" #블로그 주요 언어. 한국어 ko-KR , �
 title                    : "개발 공부 블로그" #사이트 좌상단 탭에서 보이는 이름
 title_separator          : "-"
 subtitle                 : # 타이틀 하단소제목
-name                     : "LEE INWON" #화면 하단 영역의 이름
-description              : "An amazing website." # 설명란.
+name                     : "LEE IN WON" #화면 하단 영역의 이름
+description              : "개발 공부 & 취미 블로그 " # 설명란.
 url                      : "https://leein1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/leein1/leein1.github.io.git"
