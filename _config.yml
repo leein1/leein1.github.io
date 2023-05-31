@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "LEE INWON" #이름 영역
+  name             : "LEE IN WON" #이름 영역
   avatar           : # 프로필 사진 경로 e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person." #자기소개 적으면 됨
+  bio              : "백엔드 개발 공부중 / 키보드 취미" #자기소개 적으면 됨
                                     #줄바꿈은 <br>로 굵은 글씨는 **글씨** 로 표기해주세요.
   location         : "Korea" #지역
   email            :
