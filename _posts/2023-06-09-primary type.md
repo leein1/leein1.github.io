@@ -1,5 +1,5 @@
 ---
-title: "Basic Typ 선언"
+title: "Basic Type 선언"
 categories:
   - JAVA
 tags:
