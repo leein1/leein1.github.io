@@ -1,9 +1,9 @@
 ---
 title: "기본타입 선언"
 categories:
-  -JAVA
+  - JAVA
 tags:
-  -java
+  - java
 ---
 
 ```java
